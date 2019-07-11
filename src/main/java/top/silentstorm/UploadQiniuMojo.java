@@ -15,7 +15,6 @@ import java.util.List;
 
 /**
  * @author ibm
- * @goal upload-qiniu
  */
 @Mojo(name = "upload-qiniu")
 public class UploadQiniuMojo extends AbstractMojo {
